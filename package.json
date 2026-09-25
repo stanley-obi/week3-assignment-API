@@ -1,0 +1,28 @@
+{
+  "name": "week3-crud-api-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^18.0.3",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skenpo2/week3-crud-todo-api.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/skenpo2/week3-crud-todo-api/issues"
+  },
+  "homepage": "https://github.com/skenpo2/week3-crud-todo-api#readme"
+}
